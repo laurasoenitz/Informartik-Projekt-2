@@ -24,6 +24,8 @@
 
 [11.   Dienstag, 15. Februar 2022](#11)
 
+[12.   Mittwoch, 16. Februar 2022](#12)
+
 ## Stundenblog
 
 ## <a name="1"></a> Dienstag, 14. Dezember 2021
@@ -109,7 +111,10 @@ Ich habe in der heutigen Stunde angefangen schon einmal den Hintrgrund hinzuzuf�
 
 Es wurde heute endgültig entschieden, dass Karlotta und ich getrentt voneinader weiterarbeiten.
 
-In den heutigen zwei Stunden habe ich...
+In den heutigen zwei Stunden habe ich angefangen mich mit dem Projekt weiter zu beschäftigen. Ich habe versucht herauszufinden wie ich neue Variabeln erstellen kann. ????? 
+Morgen werde ich mich weiter mit dem Projekt beschäftigen. 
 
+
+## <a name="12"></a> Mittwoch, 16. Februar 2022
 
    
