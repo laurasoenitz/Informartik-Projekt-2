@@ -107,6 +107,7 @@ Ich habe in der heutigen Stunde angefangen einen Hintergrund einzufügen und den
 ## <a name="11"></a> Dienstag, 15. Februar 2022
 
 Es wurde heute endgültig entschieden, dass Karlotta und ich getrentt voneinader weiterarbeiten.
+
 In den heutigen zwei Stunden habe ich...
 
 
