@@ -79,7 +79,7 @@ Ich habe heute gelernt wie man den Code ordentlicher schreiben kann und werde n�
 
 ## <a name="9"></a> Dienstag, 8. Februar 2022
 
-Ich habe mir die letzten Videos aus der Reihe "Joy of Code" angesehen. Jetzt habe ich eine Schlange, die das Ziel hat die Schildkröte zu essen. Im Prinzip ist es das gleiche wie bei der Schildkröte. Nur möchte die Schlange nicht das Gras sondern die Schildkröte essen. Die Schlangen bewegen sich zufällig. Im letzten Video wurde erklärt wie man die Schildkröte als Spieler machen kann und man gezielt steuern kann. Dafür habe ich den Code von der Schildkröte verändert und "clickKeys" eingesetzt. Nun kann man mit den linken und rechten Pfeiltasten die Schildkröte steuern. 
+Ich habe mir die letzten Videos aus der Reihe "Joy of Code" angesehen. Jetzt habe ich eine Schlange, die das Ziel hat die Schildkröte zu essen. Im Prinzip ist es das gleiche wie bei der Schildkröte. Der Unterschied ist das die Schlange nicht das Gras, sondern die Schildkröte essen. Die Schlangen bewegen sich zufällig. Im letzten Video wurde erklärt wie man die Schildkröte als Spieler machen kann und man gezielt steuern kann. Dafür habe ich den Code von der Schildkröte verändert und "clickKeys" eingesetzt. Nun kann man mit den linken und rechten Pfeiltasten die Schildkröte steuern. 
 
 ![Unbenannt PNG 2](https://user-images.githubusercontent.com/88386035/153018974-80878f34-4eb2-4469-b4d0-cc5af6d74dd4.PNG)
 
@@ -87,7 +87,9 @@ Ich habe mir die letzten Videos aus der Reihe "Joy of Code" angesehen. Jetzt hab
 (Schlange) 
 
 ![Unbenannt PNG 333](https://user-images.githubusercontent.com/88386035/153019141-a9738acd-e809-44ae-9bf8-8d5749183e66.PNG)
-(Schildröte)
+(Schildkröte)
+
+![Spiel 1](https://user-images.githubusercontent.com/88386035/154082979-a025e4f5-f10f-4570-986a-c52be917e7db.PNG)
 
 Am Ende der Stunde hat mit Herr Buhl verschiedene Spielideen vorgeschlagen. Diese habe ich angefangen anzuschauen und ich werde dann in der nächste Stunde den Rest an Spielideen anschauen und mich für eine entscheiden. 
 Die Frage ist zur Zeit noch, ob ich mit Karlotta das Projekt weiter mache oder ob wir beide alleine ein eigenes Projekt machen. Dies wird sich hoffentlich in den Verlauf der Wochen klären.
