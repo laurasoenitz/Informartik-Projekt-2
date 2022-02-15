@@ -103,7 +103,7 @@ Dabei möchte man das alle Vögel drei Regeln beachten:
 2. Angleichung: Richte deinen Flug an die mittlere Flugrichtung der anderen Vögel in der Nähe aus.
 3. Zusammenhalt: Bewege dich auf die mittlere Position der anderen Vögel in deiner Nähe zu.
 
-Ich habe in der heutigen Stunde angefangen einen Hintergrund einzufügen und den Vogel und den Baum zu erstellen.
+Ich habe in der heutigen Stunde angefangen schon einmal den Hintrgrund hinzuzufügen und nächste Stunde werde ich mich damit weiter beschäftigen.
 
 ## <a name="11"></a> Dienstag, 15. Februar 2022
 
