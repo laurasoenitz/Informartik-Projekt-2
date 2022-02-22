@@ -129,8 +129,11 @@ Ich habe mit Herrn Buhl etwas zusammen programmiert. Jetzt kann mein Boid sich a
 ![Drehungt](https://user-images.githubusercontent.com/88386035/155162781-e86476e8-e986-4f30-a15b-774e878d0740.PNG)
 
 Beispiel: 
-Davor: 
+
+Davor:
+
 ![vorher](https://user-images.githubusercontent.com/88386035/155163723-341c8cf7-2974-4aa6-a0f9-0aeb1b4448b0.PNG)
 
 Danach, wenn die Rotataion angepasst ist:
+
 ![Danahc](https://user-images.githubusercontent.com/88386035/155163732-ec1e452d-2d2b-47c4-8529-fe678a5daaa0.PNG)
