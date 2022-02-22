@@ -130,9 +130,7 @@ Ich habe mit Herrn Buhl etwas zusammen programmiert. Jetzt kann mein Boid sich a
 
 Beispiel: 
 Davor: 
-
 ![vorher](https://user-images.githubusercontent.com/88386035/155163723-341c8cf7-2974-4aa6-a0f9-0aeb1b4448b0.PNG)
 
 Danach, wenn die Rotataion angepasst ist:
-
 ![Danahc](https://user-images.githubusercontent.com/88386035/155163732-ec1e452d-2d2b-47c4-8529-fe678a5daaa0.PNG)
