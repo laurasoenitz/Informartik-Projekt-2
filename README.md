@@ -123,6 +123,16 @@ Ich habe mich heute weiter mit den Vektoren und der Klasse SmoothActor beschäft
 
 ## <a name="13"></a> Dienstag, 22. Februar 2022
 
-Ich habe heute als erstes mit Herrn Buhl über das Projekt geredet und wie das mit dem SmoothActor machen kann. Außerdem verstehe ich jetzt den Aufbau von dem Projekt auf der Greenfoot Seite. Ich habe mit Herrn Buhl etwas zusammen programmiert. Jetzt kann mein Boid sich an andere Boids in der Umgebung anpassen von der Rotation her. Dafür "misst" er die Rotation von den Boids in einer bestimmten Umgebung und aus diesen Werten bildet er den Mittelwert und stellt diese "Rotation" bei sich ein. 
+Ich habe heute als erstes mit Herrn Buhl über das Projekt geredet und wie das mit dem SmoothActor machen kann. Außerdem verstehe ich jetzt den Aufbau von dem Projekt auf der Greenfoot Seite. 
+Ich habe mit Herrn Buhl etwas zusammen programmiert. Jetzt kann mein Boid sich an andere Boids in der Umgebung anpassen von der Rotation her. Dafür "misst" er die Rotation von den Boids in einer bestimmten Umgebung (hier 250) und aus diesen Werten bildet er den Mittelwert und stellt diese "Rotation" bei sich ein.  
 
 ![Drehungt](https://user-images.githubusercontent.com/88386035/155162781-e86476e8-e986-4f30-a15b-774e878d0740.PNG)
+
+Beispiel: 
+Davor: 
+
+![vorher](https://user-images.githubusercontent.com/88386035/155163723-341c8cf7-2974-4aa6-a0f9-0aeb1b4448b0.PNG)
+
+Danach, wenn die Rotataion angepasst ist:
+
+![Danahc](https://user-images.githubusercontent.com/88386035/155163732-ec1e452d-2d2b-47c4-8529-fe678a5daaa0.PNG)
