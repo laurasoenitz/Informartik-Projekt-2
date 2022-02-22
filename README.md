@@ -26,6 +26,8 @@
 
 [12.   Mittwoch, 16. Februar 2022](#12)
 
+[11.   Dienstag, 22. Februar 2022](#13)
+
 ## Stundenblog
 
 ## <a name="1"></a> Dienstag, 14. Dezember 2021
@@ -111,10 +113,14 @@ Ich habe in der heutigen Stunde angefangen schon einmal den Hintrgrund hinzuzuf�
 
 Es wurde heute endgültig entschieden, dass Karlotta und ich getrentt voneinader weiterarbeiten.
 
-In den heutigen zwei Stunden habe ich angefangen mich mit dem Projekt weiter zu beschäftigen. Ich habe versucht herauszufinden wie ich neue Variabeln erstellen kann. ????? 
-Morgen werde ich mich weiter mit dem Projekt beschäftigen. 
+In den heutigen zwei Stunden habe ich angefangen mich mit dem Projekt weiter zu beschäftigen. Ich habe versucht herauszufinden wie ich Vektoren erstellen kann und mich mit dem Buch beschäftigt.
 
+Morgen werde ich mich weiter mit dem Projekt beschäftigen. 
 
 ## <a name="12"></a> Mittwoch, 16. Februar 2022
 
-   
+Ich habe mich heute weiter mit den Vektoren und der Klasse SmoothActor beschäftigt. Außerdem habe ich mir schon ein fertiges Boids Projekt auf der Greenfoot Seite angeschaut, um einen besseren Überblick zu bekommen. Dort ist mir jedoch der Aufbau noch nicht ganz klar geworden.
+
+## <a name="13"></a> Dienstag, 22. Februar 2022
+
+Ich habe heute als erstes mit Herr Buhl über das Projekt geredet und wie das mit dem SmoothActor machen kann. Außerdem verstehe ich jetzt den Aufbau von dem Projekt auf der Greenfoot Seite. Jetzt ist mir vieles klar geworden und ich werde anfangen den Boid zu programmieren. 
