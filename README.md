@@ -26,7 +26,11 @@
 
 [12.   Mittwoch, 16. Februar 2022](#12)
 
-[11.   Dienstag, 22. Februar 2022](#13)
+[13.   Dienstag, 22. Februar 2022](#13)
+
+[14.   Mittwoch, 23. Februar 2022](#14)
+
+[15.   Dienstag, 01. März 2022](#15)
 
 ## Stundenblog
 
@@ -137,3 +141,12 @@ Davor:
 Danach, wenn die Rotataion an die anderen Boids angepasst ist:
 
 ![Danahc](https://user-images.githubusercontent.com/88386035/155163732-ec1e452d-2d2b-47c4-8529-fe678a5daaa0.PNG)
+
+## <a name="14"></a> Dienstag, 23. Februar 2022
+Heute habe ich mit der Hilfe von Herrn Buhl als erstes den constructer bearbeitet und somit das Bild des Flugzeugs kleiner gemacht. 
+
+![Constructer](https://user-images.githubusercontent.com/88386035/156185126-a944d551-ac03-486e-bd2c-d534c733c387.PNG)
+
+![Teil 1](https://user-images.githubusercontent.com/88386035/156185136-ae4b2a03-dd32-4bb5-8cbd-7779fa5ae80e.PNG)
+
+![Teil2](https://user-images.githubusercontent.com/88386035/156185141-531f924b-dd6f-44e0-886c-5a10b0c3f64b.PNG)
