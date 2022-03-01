@@ -153,7 +153,7 @@ Danach habe ich move eingefügt, dass er sich von selbst bewegt.
 
 Ich wollte danach erreichen, dass das Flugzeug, sobald es den Rand berührt sich dreht. Daher habe ich turnAtEdge hinzugefügt. Außerdem habe ich noch ein random Turn mit einer Wahrscheinlichkeit von 10 Prozent hinzugefügt.
 
-Dies klappt auch alles sehr gut bisher. Das Problem ist jetzt nur, dass wenn man die Simulation etwas laufen lässt sie sich nicht mehr drehen, weil sie sich durchgehend anpassen. Das heißt sie versuchen sich zu drehen, aber sie kommen nicht vom Rand weg. Darum werde ich mich nächste Woche kümmern. Eventuell ist der Random Turn auch nicht förderlich und man kann ihn weg lassen. Das werde ich auch in der nächsten Woche testen.
+Dies klappt auch alles sehr gut bisher und es entsteht eine Art Gruppendynamik. Das Problem ist jetzt nur, dass wenn man die Simulation etwas laufen lässt sie sich nicht mehr drehen, weil sie sich durchgehend anpassen. Das heißt sie versuchen sich zu drehen, aber sie kommen nicht vom Rand weg. Darum werde ich mich nächste Woche kümmern. Eventuell ist der Random Turn auch nicht förderlich und man kann ihn weg lassen. Das werde ich auch in der nächsten Woche testen.
 
 ![Teil 1](https://user-images.githubusercontent.com/88386035/156185136-ae4b2a03-dd32-4bb5-8cbd-7779fa5ae80e.PNG)
 
