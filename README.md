@@ -172,6 +172,7 @@ Ich habe mich heute weiter mit dem Projekt beschäftigt. Als erstes wollte ich m
 
 Heute hat Herr Buhl mir eine Simulation mit Gravitation gezeigt. Daran hat er mir gezeigt wie man die Vektor Klasse programmieren kann und insgesamt das Spiel aufgebaut ist. Danach habe ich weiter versucht den Vektor zu programmieren. 
 
-## <a name="17"></a> Mittwoch, 02. März 2022
+## <a name="17"></a> Mittwoch, 09. März 2022
+
 Heute habe ich weiter am Vektor gearbeitet. Jetzt hat der Vektor eine Richtung und x und y Koordinaten. 
 Außerdem habe ich bei dem Boid  
