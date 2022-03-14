@@ -120,7 +120,7 @@ Ich habe in der heutigen Stunde angefangen schon einmal den Hintrgrund hinzuzuf�
 
 ## <a name="11"></a> Dienstag, 15. Februar 2022
 
-Es wurde heute endgültig entschieden, dass Karlotta und ich getrentt voneinader weiterarbeiten.
+Es wurde heute endgültig entschieden, dass Karlotta und ich getrent voneinader weiterarbeiten.
 
 In den heutigen zwei Stunden habe ich angefangen mich mit dem Projekt weiter zu beschäftigen. Ich habe versucht herauszufinden wie ich Vektoren erstellen kann und mich mit dem Buch beschäftigt.
 
