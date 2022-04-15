@@ -213,6 +213,5 @@ Ich habe heute angefangen das zu programmieren das sie sich von der Wand entfern
 
 Ich habe in den Ferien meinen Projekt einen letzten Schliff gegeben. Außerdem habe ich den Projektblog für mein Projekt geschrieben.
 
-Link zur Projektseite von dem Blog: 
-
+Link zur Projektseite vom Blog:
 https://github.com/laurasoenitz/Projektseite-boids
