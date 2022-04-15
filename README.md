@@ -43,7 +43,9 @@
 
 [20.   Dienstag, 22. März 2022](#20)
  
-[21.   Mittwoch, 13. April 2022](#20)
+[21.   Dienstag, 12. März 2022](#21)
+ 
+[22.   Mittwoch, 13. April 2022](#22)
 
 ### Stundenblog
 
@@ -186,11 +188,11 @@ Als erstes habe ich heute den Hintergrund verändert. Ich habe das alte Bild mit
 
 ![Hintergrund 2](https://user-images.githubusercontent.com/88386035/163570991-a84657ed-3693-4e1f-917b-06cc603a2a63.PNG)
 
-Danach habe ich RandomTurn aus dem Code rausgeklammert, weil die Funktion keinen Voteil für die Simulation beiträgt. Außerdem habe ich turnAtEdge aus dem Code rausgeklamert, weil ich jetzt das Problem mit der Wand nochmal anders lösen möchte. Dafür habe ich als erstes bei dem SmoothMover die Funktion hinzugefügt das getestet wird ob das Objekt sich es an eine der Kanten befindet. Wenn das Objekt sich an eine der Kanten befindet wird true zurückgegeben.
-
-Dies hilft mir hoffentlich, dass ich in der nächsten Stunde etwas pogrammieren kann damit die Boids sobald sie an der Wand sich befinden sich von dieser entfernen.
+Danach habe ich RandomTurn aus dem Code auskommentiert, weil die Funktion keinen Voteil für die Simulation hat. Außerdem habe ich turnAtEdge aus dem Code auskommentiert, weil ich jetzt das Problem mit der Wand nochmal anders lösen möchte. Dafür habe ich als erstes bei dem SmoothMover die Funktion hinzugefügt, dasw getestet wird, ob das Objekt sich es an eine der Kanten befindet. Wenn das Objekt sich an eine der Kanten befindet wird true zurückgegeben.
 
 ![Smooth Mover](https://user-images.githubusercontent.com/88386035/163573737-89469234-7b34-4d02-8468-a9ea007aacfd.PNG)
+
+Dies hilft mir hoffentlich, dass ich in der nächsten Stunde etwas pogrammieren kann damit die Boids sobald sie sich an der Wand befinden, sich von dieser entfernen.
 
 ## <a name="17"></a> Mittwoch, 09. März 2022
 
@@ -200,18 +202,15 @@ Ich habe heute angefangen das zu programmieren das sie sich von der Wand entfern
 
 ![Teil2](https://user-images.githubusercontent.com/88386035/163572329-3be0c067-a636-4087-b8a2-8f60002f513f.PNG)
 
-
-
 ## <a name="18"></a> Dienstag, 15. März 2022
 
 
 
 ## <a name="19"></a> Mittwoch, 16. März 2022
 
-Ich habe heute den SmoothMover bearbeitet. Ich habe eine Funktion hinzugefügt die den Winkel zwischen bestimmten Objekten berechnet. Diese brauche ich damit die Objekte nicht nur näher aneinander gehen sondern, wenn sie in einen bestimmten Radius sind sich auch wieder abstoßen. Das sie sich abstoßen werde ich am nächsten Tag programmieren. 
+Ich habe heute den SmoothMover bearbeitet. Ich habe eine Funktion hinzugefügt die den Winkel zwischen bestimmten Objekten berechnet. Diese brauche ich damit die Objekte nicht nur näher aneinander gehen sondern, wenn sie in einen bestimmten Radius sind sich auch wieder abstoßen. Das sie sich wieder abstoßen werde ich in der nächste Stunde programmieren. 
 
 ![Degree ding](https://user-images.githubusercontent.com/88386035/163586899-80751430-2ee8-434e-ad85-c3cad28fca9e.PNG)
-
 
 ## <a name="20"></a> Dienstag, 22. März 2022
 
@@ -223,10 +222,15 @@ Danach habe ich mich mit der Funktion setSwarmRotationGetAway gekümmert. Dabei 
 
 ![GetAway version 1](https://user-images.githubusercontent.com/88386035/163588013-34417c34-2d90-4d28-bc87-f4e3601dadaa.PNG)
 
+Das Problem ist jetzt noch, dass sie sich in den Ecken vermehrt befinden. Dies werde ich in der nächsten Stunde versuchen zu lösen. 
 
-## <a name="20"></a> Mittwoch, 13. April 2022
+## <a name="21"></a> Dienstag, 12. April 2022
 
-Ich habe in den Ferien meinen Projekt einen letzten Schliff gegeben und den Code nochmal bearbeitet. Außerdem habe ich den Projektblog für mein Projekt geschrieben.
+
+Ecken
+## <a name="22"></a> Mittwoch, 13. April 2022
+
+Ich habe in den Ferien meinen Projekt einen letzten Schliff gegeben und den Code nochmal bearbeitet und Kommentare zu dem Code hinzugefügt. Außerdem habe ich den Projektblog für mein Projekt geschrieben.
 
 Link zur Projektseite vom Blog:
 https://github.com/laurasoenitz/Projektseite-boids
