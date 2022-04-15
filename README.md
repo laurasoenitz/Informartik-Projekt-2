@@ -227,11 +227,17 @@ Ich habe heute den SmoothMover bearbeitet. Ich habe eine Funktion hinzugefügt d
 
 ## <a name="20"></a> Dienstag, 22. März 2022
 
-Ich habe heute als erstes die Funktion die ich mit Herrn Buhl erstellt habe als setSwarmRotationGetCloser unbennant. Außerdem habe ich einen neuen Radius von 80 gesetzt.
+Ich habe heute als erstes die Funktion die ich mit Herrn Buhl erstellt habe als setSwarmRotationGetCloser unbennant. Außerdem habe ich einen neuen Radius von 80 gesetzt. Damit der Boid sich nicht so schnell anpasst habe ich die durch zwei bei der Rechnung der neuen Rotaion herausgenommen.
 
 ![Get Closer](https://user-images.githubusercontent.com/88386035/163587514-e64211e1-02b7-4a6d-95e4-ba40c2239e6f.PNG)
 
-Danach habe ich mich mit der Funktion setSwarmRotationGetAway gekümmert. Dabei wird sobald das Objekt 
+Danach habe ich mich mit der Funktion setSwarmRotationGetAway gekümmert. Durch diese Funktion entfernen sich die Objekte sobald sie sich zu nah kommen. Da es häufig zu dem Problem kam, dass die Boids nur noch beisammen waren und übereinander. 
+
+Als erstes wird genauso wie beim setSwarmRotationGetCloser eine Liste von den Boids im Radius von 40 gemacht. Diese Boids in der Umgebung werden dann die Informationen für DegressToNeighbor und rotation entnommen. Dabei wird die Roationen von allen Boids die in der Liste aufgenommen wurden und wir erhöhen  den counter um 1 pro Boid.
+
+Danach berechnen wir eine neue Rotation für den Boid. Dabei ist wichtig, dass diese zwar an die Boids in der Umgebung angepasst sind, jedoch auch bewirken, dass die Boids sich voneinander entfernen. 
+
+Dafür nehmen wir die 10 Prozent der Rotation durch den Counter und addieren dazu 90 Prozent der eigenen Rotation. Zu dem Wert addieren wir dann 5 Prozent des Winkels zum Nachbarn. Dies bewirkt, dass wir uns vom anderem Boid entfernen, aber auch noch in der Nähe voneinander bleiben. 
 
 ![GetAway version 1](https://user-images.githubusercontent.com/88386035/163588013-34417c34-2d90-4d28-bc87-f4e3601dadaa.PNG)
 
