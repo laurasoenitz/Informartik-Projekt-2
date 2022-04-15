@@ -207,7 +207,7 @@ Mit dem Befehl println gebe ich einen Text an mit dem ich nachvollziehen kann, o
 
 Danach ermittel ich eine Zufallszahl um den Ausrittswinkel von der Kante zufällig geschehen zu lassen. Diese gebe ich mir durch den Befehl println als Text aus. 
 
-Je nachdem bei welcher Kante der Boid sich befindet wird die neue Rotation unterschiedlich mit der Zufallszahl berechnet. Dies ist notwendig, da für jede Kante eine andere Logik notwendig. 
+Je nachdem bei welcher Kante der Boid sich befindet wird die neue Rotation unterschiedlich mit der Zufallszahl berechnet. Dies ist notwendig, da für jede Kante eine andere Logik notwendig ist. 
 
 Das break in dem Code sorgt dafür, dass sobald die richtige Ecke gefunden wurde der Scwitch Befehl nicht weiter druchgegangen wird. 
 
@@ -237,7 +237,7 @@ Als erstes wird genauso wie beim setSwarmRotationGetCloser eine Liste von den Bo
 
 Danach berechnen wir eine neue Rotation für den Boid. Dabei ist wichtig, dass diese zwar an die Boids in der Umgebung angepasst sind, jedoch auch bewirken, dass die Boids sich voneinander entfernen. 
 
-Dafür nehmen wir die 10 Prozent der Rotation durch den Counter und addieren dazu 90 Prozent der eigenen Rotation. Zu dem Wert addieren wir dann 5 Prozent des Winkels zum Nachbarn. Dies bewirkt, dass wir uns vom anderem Boid entfernen, aber auch noch in der Nähe voneinander bleiben. 
+Dafür nehmen wir die 10 Prozent der Rotation der Nachbarn durch den Counter und addieren dazu 90 Prozent der eigenen Rotation. Zu dem Wert addieren wir dann 5 Prozent des Winkels zum Nachbarn. Dies bewirkt, dass wir uns vom anderem Boid entfernen, aber auch gleichzeitig in der Nähe voneinander bleiben. 
 
 ![GetAway version 2](https://user-images.githubusercontent.com/88386035/163604359-d8055d78-753d-460a-b2d1-8e6458f15968.PNG)
 
@@ -245,13 +245,20 @@ Das Problem ist jetzt noch, dass sie sich in den Ecken vermehrt befinden. Dies w
 
 ## <a name="21"></a> Dienstag, 12. April 2022
 
+Ich habe herausgefunden, dass wenn die Boids sich in der Ecke befinden der Winkel ein anderer sollte, damit man garanieren kann das die Boids sich wirklich aus der Ecke bewegen. Der Winkel hierbei ist 70 Grad. 
+
+Als erstes schaue ich, dadurch das es zum anderen Code hinzugefügt, ob der Boid überhaupt an einer Kante sich befindet. Danach mache ich das ähnlich wie bei den normalen Kanten, dass man schaut in welcher Ecke der Boid sich befindet. Dies finden wir mit der Breite und der Höhe heraus. Ich halte durch eine Variabel fest in welcher Ecke der Boid ist. 
+
+Danach wird je nachdem in welcher Ecke sich der Boid befindet eine zufällige Rotation beim Boid eingestellt. Die zufällige Rotation kommt durch eine Zufallszahl die im Bereich von 0 bis 140 gesetzt ist. 
+
 ![turn mit Edge](https://user-images.githubusercontent.com/88386035/163598529-34365e14-a4c7-4f61-bfff-77a143a7434c.PNG)
 
 ![edge 2](https://user-images.githubusercontent.com/88386035/163598535-319789cd-998e-40c4-bd3b-e5f2741cdceb.PNG)
 
 ![Teil 3 edge](https://user-images.githubusercontent.com/88386035/163598544-3585e13c-9f8b-4adf-bce3-f54990705721.PNG)
 
-Ecken
+Ein Problem gibt es jetzt noch, da sich die Boids andauernd anpassen befinden sie sich immer noch vermehrt beeinander. Dies könnte man noch verbessern, indem man die Boids in eine Rangfolge setzt und es so einen Anführer gibt an den sich dann alle anpassen. 
+
 ## <a name="22"></a> Mittwoch, 13. April 2022
 
 Ich habe in den Ferien meinen Projekt einen letzten Schliff gegeben und den Code nochmal bearbeitet und Kommentare zu dem Code hinzugefügt. Außerdem habe ich den Projektblog für mein Projekt geschrieben.
