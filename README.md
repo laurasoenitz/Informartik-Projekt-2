@@ -62,19 +62,19 @@ Heute haben wir weiter in dem Buch gelesen und schon ein paar Bewegungen ausprob
 
 ## <a name="3"></a> Dienstag, 11. Januar 2022
 
-Karlotta war heute krank, daher habe ich alleine weiter gearbeitet. Ich wollte meine Kenntnisse weiter verbessern und habe weiter mit der Seite https://www.greenfoot.org/doc/joy-of-code gearbeitet. Ich habe damit angefangen eine Welt zu erstellen und danach habe ich eine Schildkröte erstellt. Diese konnte am Ende der Stunde sich bewegen und sobald sie den Rand berührt hat sie sich umgedreht. Ich habe mich also mit dem "If statements" beschäftigt. 
+Karlotta war heute krank, daher habe ich alleine weitergearbeitet. Ich wollte meine Kenntnisse weiter verbessern und habe weiter mit der Seite https://www.greenfoot.org/doc/joy-of-code gearbeitet. Ich habe damit angefangen eine Welt zu erstellen und danach habe ich eine Schildkröte erstellt. Diese konnte am Ende der Stunde sich bewegen und sobald sie den Rand berührt hat sie sich umgedreht. Ich habe mich also mit dem "If statements" beschäftigt. 
 
 ![Unbenannt](https://user-images.githubusercontent.com/88386035/149142910-6ae2fab3-95e2-429e-bfda-77466ef293a1.PNG)
 
-Morgen werde ich mit den nächsten Punkten von "Joy of Code" weiter arbeiten. Dadurch kann ich die Java Sprache besser kennen lernen und eventuell bald unsere eigene Spielidee entwickeln können. 
+Morgen werde ich mit den nächsten Punkten von "Joy of Code" weiterarbeiten. Dadurch kann ich die Java Sprache besser kennen lernen und eventuell bald unsere eigene Spielidee entwickeln können. 
 
 ## <a name="4"></a> Mittwoch, 12. Januar 2022
 
-Karlotta war heute immer noch krank. Ich habe weiter an den Punkten von "Joy of Code" gearbeitet, um  die Blog Sprache noch besser kennen zu lernen. 
+Karlotta war heute immer noch krank. Ich habe weiter an den Punkten von "Joy of Code" gearbeitet, um die Blog Sprache noch besser kennen zu lernen. 
 
 ## <a name="5"></a> Dienstag, 18. Januar 2022
 
-Heute war leider Laura krank, weshalb ich weiter die Videos von "Joy of Code" angeguckt habe. In den Lektionen #4 und #5 habe ich etwas über die verschiedenen Möglichkeiten ein Objekt zu bewegen gelernt und ich habe gelernt. Diese neuen Funktionen habe ich dann natürlich auch praktisch angewandt. 
+Heute war leider Laura krank, weshalb ich weiter die Videos von "Joy of Code" angeguckt habe. In den Lektionen #4 und #5 habe ich etwas über die verschiedenen Möglichkeiten ein Objekt zu bewegen gelernt und ich habe gelernt. Diese neuen Funktionen habe ich dann auch praktisch angewandt. 
 
 ![grafik](https://user-images.githubusercontent.com/88385860/149965858-27313754-0851-45a2-9e93-602f804c8605.png)
 
@@ -105,7 +105,7 @@ Ich habe heute gelernt wie man den Code ordentlicher schreiben kann und werde n�
 
 ## <a name="9"></a> Dienstag, 8. Februar 2022
 
-Ich habe mir die letzten Videos aus der Reihe "Joy of Code" angesehen. Jetzt habe ich eine Schlange, die das Ziel hat die Schildkröte zu essen. Im Prinzip ist es das gleiche wie bei der Schildkröte. Der Unterschied ist das die Schlange nicht das Gras, sondern die Schildkröte essen. Die Schlangen bewegen sich zufällig. Im letzten Video wurde erklärt wie man die Schildkröte als Spieler machen kann und man gezielt steuern kann. Dafür habe ich den Code von der Schildkröte verändert und "clickKeys" eingesetzt. Nun kann man mit den linken und rechten Pfeiltasten die Schildkröte steuern. 
+Ich habe mir die letzten Videos aus der Reihe "Joy of Code" angesehen. Jetzt habe ich eine Schlange, die das Ziel hat, die Schildkröte zu essen. Im Prinzip ist es das gleiche wie bei der Schildkröte. Der Unterschied ist das die Schlange nicht das Gras, sondern die Schildkröte essen. Die Schlangen bewegen sich zufällig. Im letzten Video wurde erklärt wie man die Schildkröte als Spieler machen kann und man gezielt steuern kann. Dafür habe ich den Code von der Schildkröte verändert und "clickKeys" eingesetzt. Nun kann man mit den linken und rechten Pfeiltasten die Schildkröte steuern. 
 
 ![Unbenannt PNG 2](https://user-images.githubusercontent.com/88386035/153018974-80878f34-4eb2-4469-b4d0-cc5af6d74dd4.PNG)
 
@@ -117,15 +117,15 @@ Ich habe mir die letzten Videos aus der Reihe "Joy of Code" angesehen. Jetzt hab
 
 ![Spiel 1](https://user-images.githubusercontent.com/88386035/154082979-a025e4f5-f10f-4570-986a-c52be917e7db.PNG)
 
-Am Ende der Stunde hat mit Herr Buhl verschiedene Spielideen vorgeschlagen. Diese habe ich angefangen anzuschauen und ich werde dann in der nächste Stunde den Rest an Spielideen anschauen und mich für eine entscheiden. 
-Die Frage ist zur Zeit noch, ob ich mit Karlotta das Projekt weiter mache oder ob wir beide alleine ein eigenes Projekt machen. Dies wird sich hoffentlich in den Verlauf der Wochen klären.
+Am Ende der Stunde hat mit Herr Buhl verschiedene Spielideen vorgeschlagen. Diese habe ich angefangen anzuschauen und ich werde dann in der nächsten Stunde den Rest an Spielideen anschauen und mich für eine entscheiden. 
+Die Frage ist zurzeit noch, ob ich mit Karlotta das Projekt weiter mache oder ob wir beide alleine ein eigenes Projekt machen. Dies wird sich hoffentlich in den Verlauf der Wochen klären.
 
 ## <a name="10"></a> Mittwoch, 9. Februar 2022
 
 Ich möchte mich mit dem Projekt boids beschäftigen. Das Projekt simuliert das Schwarmverhalten von Vögeln. 
 Dabei möchte man das alle Vögel drei Regeln beachten:
 
-1. Separation: Gehe auf Abstand zu anderen Vögeln, wenn du ihnen zu nahe kommst.
+1. Separation: Gehe auf Abstand zu anderen Vögeln, wenn du ihnen zu nahekommst.
 2. Angleichung: Richte deinen Flug an die mittlere Flugrichtung der anderen Vögel in der Nähe aus.
 3. Zusammenhalt: Bewege dich auf die mittlere Position der anderen Vögel in deiner Nähe zu.
 
@@ -135,7 +135,7 @@ Ich habe in der heutigen Stunde angefangen schon einmal den Hintergrund hinzuzuf
 
 Es wurde heute endgültig entschieden, dass Karlotta und ich getrennt voneinander weiterarbeiten.
 
-In den heutigen zwei Stunden habe ich angefangen mich mit dem Projekt weiter zu beschäftigen. Ich habe versucht herauszufinden wie ich Vektoren erstellen kann und mich mit dem Buch beschäftigt.
+In den heutigen zwei Stunden habe ich angefangen mich mit dem Projekt weiter zu beschäftigen. Ich habe versucht herauszufinden, wie ich Vektoren erstellen kann und mich mit dem Buch beschäftigt.
 
 Morgen werde ich mich weiter mit dem Projekt beschäftigen. 
 
@@ -146,7 +146,7 @@ Ich habe mich heute weiter mit den Vektoren und der Klasse SmoothActor beschäft
 ## <a name="13"></a> Dienstag, 22. Februar 2022
 
 Ich habe heute als erstes mit Herrn Buhl über das Projekt geredet und wie das mit dem SmoothActor machen kann. Außerdem verstehe ich jetzt den Aufbau von dem Projekt auf der Greenfoot Seite. 
-Ich habe mit Herrn Buhl etwas zusammen programmiert. Jetzt kann mein Boid sich an andere Boids in der Umgebung anpassen von der Rotation her. Dafür "misst" er die Rotation von den Boids in einer bestimmten Radius (hier 250) und aus diesen Werten bildet er den Mittelwert und stellt diese "Rotation" bei sich ein.  
+Ich habe mit Herrn Buhl etwas zusammen programmiert. Jetzt kann mein Boid sich an andere Boids in der Umgebung anpassen von der Rotation her. Dafür "misst" er die Rotation von den Boids in einem bestimmten Radius (hier 250) und aus diesen Werten bildet er den Mittelwert und stellt diese "Rotation" bei sich ein.  
 
 ![Drehungt](https://user-images.githubusercontent.com/88386035/155162781-e86476e8-e986-4f30-a15b-774e878d0740.PNG)
 
@@ -166,12 +166,12 @@ Heute habe ich mit der Hilfe von Herrn Buhl als erstes den constructer bearbeite
 
 ![Constructer](https://user-images.githubusercontent.com/88386035/156185126-a944d551-ac03-486e-bd2c-d534c733c387.PNG)
 
-Danach haben wir den Code verändert, damit das Flugzeug sich nicht so schnell an die anderen Flugzeuge in seiner Umgebung anpasst. Das haben wir gemacht, indem man den Mittelwert plus die eigegene Rotation durch 2 rechnet. Außerdem habe ich die Umgebung, wo er die anderen Flugzeuge sucht verkleinert auf 50. 
+Danach haben wir den Code verändert, damit das Flugzeug sich nicht so schnell an die anderen Flugzeuge in seiner Umgebung anpasst. Das haben wir gemacht, indem man den Mittelwert plus die eigenen Rotation durch 2 rechnet. Außerdem habe ich die Umgebung, wo er die anderen Flugzeuge sucht auf 50 verkleinert. 
 Danach habe ich move eingefügt, dass er sich von selbst bewegt. 
 
-Ich wollte danach erreichen, dass das Flugzeug, sobald es den Rand berührt sich dreht. Daher habe ich turnAtEdge hinzugefügt. Außerdem habe ich noch ein random Turn mit einer Wahrscheinlichkeit von 10 Prozent hinzugefügt.
+Ich wollte danach erreichen, dass das Flugzeug, sobald es den Rand berührt, sich dreht. Daher habe ich turnAtEdge hinzugefügt. Außerdem habe ich noch ein random Turn mit einer Wahrscheinlichkeit von 10 Prozent hinzugefügt.
 
-Dies klappt auch alles sehr gut bisher und es entsteht eine Art Gruppendynamik. Das Problem ist jetzt nur, dass wenn man die Simulation etwas laufen lässt sie sich nicht mehr drehen, weil sie sich durchgehend anpassen. Das heißt sie versuchen sich zu drehen, aber sie kommen nicht vom Rand weg. Darum werde ich mich nächste Woche kümmern. Eventuell ist der Random Turn auch nicht förderlich und man kann ihn weg lassen. Das werde ich auch in der nächsten Woche testen.
+Dies klappt auch alles sehr gut bisher und es entsteht eine Art Gruppendynamik. Das Problem ist jetzt nur, dass wenn man die Simulation etwas laufen lässt sie sich nicht mehr drehen, weil sie sich durchgehend anpassen. Das heißt sie versuchen sich zu drehen, aber sie kommen nicht vom Rand weg. Darum werde ich mich nächste Woche kümmern. Eventuell ist der Random Turn auch nicht förderlich und man kann ihn weglassen. Das werde ich auch in der nächsten Woche testen.
 
 ![Teil 1](https://user-images.githubusercontent.com/88386035/156185136-ae4b2a03-dd32-4bb5-8cbd-7779fa5ae80e.PNG)
 
@@ -179,11 +179,11 @@ Dies klappt auch alles sehr gut bisher und es entsteht eine Art Gruppendynamik. 
 
 ## <a name="15"></a> Dienstag, 01. März 2022
 
-Ich habe mich heute weiter mit dem Projekt beschäftigt. Als erstes wollte ich mit "getNeigbhours (int distance)" das Problem beheben, dass sie sich Am Ende nicht vom Rand weg kommen. Dies hat bisher, jedoch noch nicht so gut geklappt. Außerdem habe ich mich mit dem Programmieren eines Vektors für die Simulation beschäftigt. 
+Ich habe mich heute weiter mit dem Projekt beschäftigt. Als erstes wollte ich mit "getNeigbhours (int distance)" das Problem beheben, dass sie sich Am Ende nicht vom Rand wegkommen. Dies hat bisher, jedoch noch nicht so gut geklappt. Außerdem habe ich mich mit dem Programmieren eines Vektors für die Simulation beschäftigt. 
 
 ## <a name="16"></a> Mittwoch, 02. März 2022
 
-Herr Buhl hat mir dafür eine Simulation mit Gravitation gezeigt. Daran hat er mir gezeigt wie man die Vektor Klasse programmieren kann und insgesamt das Spiel aufgebaut ist. Danach habe ich weiter versucht den Vektor zu programmieren. 
+Herr Buhl hat mir dafür eine Simulation mit Gravitation gezeigt. Daran hat er mir gezeigt, wie man die Vektor Klasse programmieren kann und insgesamt das Spiel aufgebaut ist. Danach habe ich weiter versucht den Vektor zu programmieren. 
 
 ## <a name="17"></a> Mittwoch, 09. März 2022
 
@@ -193,29 +193,29 @@ Als erstes habe ich heute den Hintergrund verändert. Ich habe das alte Bild mit
 
 ![Hintergrund 2](https://user-images.githubusercontent.com/88386035/163570991-a84657ed-3693-4e1f-917b-06cc603a2a63.PNG)
 
-Danach habe ich RandomTurn aus dem Code auskommentiert, weil die Funktion keinen Vorteil für die Simulation hat. Außerdem habe ich turnAtEdge aus dem Code auskommentiert, weil ich jetzt das Problem mit der Wand nochmal anders lösen möchte. Dafür habe ich als erstes bei dem SmoothMover die Funktion hinzugefügt, das getestet wird, ob das Objekt sich es an eine der Kanten befindet. Wenn das Objekt sich an eine der Kanten befindet wird true zurückgegeben.
+Danach habe ich RandomTurn aus dem Code auskommentiert, weil die Funktion keinen Vorteil für die Simulation hat. Außerdem habe ich turnAtEdge aus dem Code auskommentiert, weil ich jetzt das Problem mit der Wand nochmal anders lösen möchte. Dafür habe ich als erstes bei dem SmoothMover die Funktion hinzugefügt, das getestet wird, ob das Objekt sich es an eine der Kanten befindet. Wenn das Objekt sich an eine der Kanten befindet, wird true zurückgegeben.
 
 ![Smooth Mover](https://user-images.githubusercontent.com/88386035/163573737-89469234-7b34-4d02-8468-a9ea007aacfd.PNG)
 
-Dies hilft mir hoffentlich, dass ich in der nächsten Stunde etwas programmieren kann damit die Boids sobald sie sich an der Kante der Welt befinden, sich von dieser entfernen.
+Dies hilft mir hoffentlich, dass ich in der nächsten Stunde etwas programmieren kann, damit die Boids sobald sie sich an der Kante der Welt befinden, sich von dieser entfernen.
 
 ## <a name="18"></a> Dienstag, 15. März 2022
 
 Ich habe heute angefangen das zu programmieren das sie sich von der Kante der Welt entfernen. 
 
-Als erstes prüfen wir, ob der Boid sich an einer der Kanten befindet. Wenn der Boid sich an einer Kante befindet prüfen wir anhand der X- und Y-Koordinate des Boids an welcher der vier Kanten er sich in der Welt befindet. Für die spätere Logik halte ich dies in einer Variable für den Boid fest, die der Himmelsrichtung der Kante an dem sich der Boid befindet entspricht. 
+Als erstes prüfe ich, ob der Boid sich an einer der Kanten befindet. Wenn der Boid sich an einer Kante befindet, prüfe ich  anhand der X- und Y-Koordinate des Boids an welcher der vier Kanten er sich in der Welt befindet. Für die spätere Logik halte ich dies in einer Variable für den Boid fest, die der Himmelsrichtung der Kante an dem sich der Boid befindet entspricht. 
 
 Mit dem Befehl println gebe ich einen Text an mit dem ich nachvollziehen kann, ob der Code richtig funktioniert.  
 
-Danach ermittle ich eine Zufallszahl um den Ausrittswinkel von der Kante zufällig geschehen zu lassen. Diese gebe ich mir durch den Befehl println als Text aus. 
+Danach ermittle ich eine Zufallszahl, um den Ausrittswinkel von der Kante zufällig geschehen zu lassen. Diese gebe ich mir durch den Befehl println als Text aus. 
 
 Je nachdem bei welcher Kante der Boid sich befindet wird die neue Rotation unterschiedlich mit der Zufallszahl berechnet. Dies ist notwendig, da für jede Kante eine andere Logik notwendig ist. 
 
-Das break in dem Code sorgt dafür, dass sobald die richtige Ecke gefunden wurde der Switch Befehl nicht weiter durchgegangen wird. 
+Das break in dem Code sorgt dafür, dass so bald die richtige Ecke gefunden wurde der Switch Befehl nicht weiter durchgegangen wird. 
 
-Um zu überprüfen, ob der Code funktioniert wird wieder ein Text durch den Befehl println ausgegeben. Dadurch wird sichergestellt, dass kein Fehler im Code ist. 
+Um zu überprüfen, ob der Code funktioniert, wird wieder ein Text durch den Befehl println ausgegeben. Dadurch wird sichergestellt, dass kein Fehler im Code ist. 
 
-Durch diese Funktion wird ermöglicht, dass der Boid sich von der Wand mit einem anderen zufälligen Ausfallswinkel abgestoßen wird und so das Problem von vorher aufgelöst wird, denn dort hat der Boid sich zwar auch gedreht sobald er die Kante berührt hat, jedoch wurde dort nicht der Ausfallswinkel verändert. 
+Durch diese Funktion wird ermöglicht, dass der Boid sich von der Wand mit einem anderen zufälligen Ausfallswinkel abgestoßen wird und so das Problem von vorher aufgelöst wird, denn dort hat der Boid sich zwar auch gedreht, sobald er die Kante berührt hat, jedoch wurde dort nicht der Ausfallswinkel verändert. 
 
 ![Teil 1](https://user-images.githubusercontent.com/88386035/163572324-8962ef43-f6aa-4a54-9918-f056a4ebd461.PNG)
 
@@ -223,19 +223,19 @@ Durch diese Funktion wird ermöglicht, dass der Boid sich von der Wand mit einem
 
 ## <a name="19"></a> Mittwoch, 16. März 2022
 
-Ich habe heute den SmoothMover bearbeitet. Ich habe eine Funktion hinzugefügt die den Winkel zwischen bestimmten Objekten berechnet. Diese brauche ich damit die Objekte nicht nur näher aneinander gehen sondern, wenn sie in einen bestimmten Radius sind sich auch wieder abstoßen. Das sie sich wieder abstoßen werde ich in der nächste Stunde programmieren. 
+Ich habe heute den SmoothMover bearbeitet. Ich habe eine Funktion hinzugefügt, die den Winkel zwischen bestimmten Objekten berechnet. Diese brauche ich damit die Objekte nicht nur näher aneinander gehen sondern, wenn sie in einen bestimmten Radius sind sich auch wieder abstoßen. Dass sie sich wieder abstoßen werde ich in der nächste Stunde programmieren. 
 
 ![Degree ding](https://user-images.githubusercontent.com/88386035/163586899-80751430-2ee8-434e-ad85-c3cad28fca9e.PNG)
 
 ## <a name="20"></a> Dienstag, 22. März 2022
 
-Ich habe heute als erstes die Funktion die ich mit Herrn Buhl erstellt habe als setSwarmRotationGetCloser unbenannt. Außerdem habe ich einen neuen Radius von 80 gesetzt. Damit der Boid sich nicht so schnell anpasst habe ich die durch zwei bei der Rechnung der neuen Rotation herausgenommen.
+Ich habe heute als erstes die Funktion, die ich mit Herrn Buhl erstellt habe als setSwarmRotationGetCloser unbenannt. Außerdem habe ich einen neuen Radius von 80 gesetzt. Damit der Boid sich nicht so schnell anpasst habe ich die durch zwei bei der Rechnung der neuen Rotation herausgenommen.
 
 ![Get Closer](https://user-images.githubusercontent.com/88386035/163587514-e64211e1-02b7-4a6d-95e4-ba40c2239e6f.PNG)
 
-Danach habe ich mich mit der Funktion setSwarmRotationGetAway gekümmert. Durch diese Funktion entfernen sich die Objekte sobald sie sich zu nah kommen. Da es häufig zu dem Problem kam, dass die Boids nur noch beisammen waren und übereinander. 
+Danach habe ich mich mit der Funktion setSwarmRotationGetAway gekümmert. Durch diese Funktion entfernen sich die Objekte, sobald sie sich zu nah kommen. Da es häufig zu dem Problem kam, dass die Boids nur noch beisammen waren und übereinander. 
 
-Als erstes wird genauso wie beim setSwarmRotationGetCloser eine Liste von den Boids im Radius von 40 gemacht. Diese Boids in der Umgebung werden dann die Informationen für DegressToNeighbor und Rotation entnommen. Dabei wird die Roationen von allen Boids die in der Liste aufgenommen wurden und wir erhöhen  den counter um 1 pro Boid.
+Als erstes wird genauso wie beim setSwarmRotationGetCloser eine Liste von den Boids im Radius von 40 gemacht. Diese Boids in der Umgebung werden dann die Informationen für DegressToNeighbor und Rotation entnommen. Dabei wird die Roationen von allen Boids die in der Liste aufgenommen wurden und wir erhöhen den counter um 1 pro Boid.
 
 Danach berechnen wir eine neue Rotation für den Boid. Dabei ist wichtig, dass diese zwar an die Boids in der Umgebung angepasst sind, jedoch auch bewirken, dass die Boids sich voneinander entfernen. 
 
@@ -247,7 +247,7 @@ Das Problem ist jetzt noch, dass sie sich in den Ecken vermehrt befinden. Dies w
 
 ## <a name="21"></a> Dienstag, 12. April 2022
 
-Ich habe herausgefunden, dass wenn die Boids sich in der Ecke befinden der Winkel ein anderer sollte, damit man garantieren kann das die Boids sich wirklich aus der Ecke bewegen. Der Winkel hierbei ist 70 Grad. 
+Ich habe herausgefunden, dass wenn die Boids sich in der Ecke befinden, der Winkel ein anderer sollte, damit man garantieren kann das die Boids sich wirklich aus der Ecke bewegen. Der Winkel hierbei ist 70 Grad. 
 
 Als erstes schaue ich, dadurch das es zum anderen Code hinzugefügt, ob der Boid überhaupt an einer Kante sich befindet. Danach mache ich das ähnlich wie bei den normalen Kanten, dass man schaut in welcher Ecke der Boid sich befindet. Dies finden wir mit der Breite und der Höhe heraus. Ich halte durch eine Variabel fest in welcher Ecke der Boid ist. 
 
@@ -259,11 +259,11 @@ Danach wird je nachdem in welcher Ecke sich der Boid befindet eine zufällige Ro
 
 ![Teil 3 edge](https://user-images.githubusercontent.com/88386035/163598544-3585e13c-9f8b-4adf-bce3-f54990705721.PNG)
 
-Ein Problem gibt es jetzt noch, da sich die Boids andauernd anpassen befinden sie sich immer noch vermehrt beieinander. Dies könnte man noch verbessern, indem man die Boids in eine Rangfolge setzt und es so einen Anführer gibt an den sich dann alle anpassen. 
+Ein Problem gibt es jetzt noch, da sich die Boids andauernd anpassen befinden sie sich immer noch vermehrt beieinander. Dies könnte man noch verbessern, indem man die Boids in eine Rangfolge setzt und es so einen Anführer gibt, an den sich dann alle anpassen. 
 
 ## <a name="22"></a> Mittwoch, 13. April 2022
 
-Ich habe in den Ferien meinen Projekt einen letzten Schliff gegeben und den Code nochmal bearbeitet und Kommentare zu dem Code hinzugefügt. Außerdem habe ich den Projektblog für mein Projekt geschrieben.
+Ich habe in den Ferien mein Projekt einen letzten Schliff gegeben und den Code nochmal bearbeitet und Kommentare zu dem Code hinzugefügt. Außerdem habe ich den Projektblog für mein Projekt geschrieben.
 
 Link zur Projektseite vom Blog:
 https://github.com/laurasoenitz/Projektseite-boids
