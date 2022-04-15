@@ -181,6 +181,7 @@ Herr Buhl hat mir dafür eine Simulation mit Gravitation gezeigt. Daran hat er m
 ## <a name="16"></a> Mittwoch, 02. März 2022
 
 Ich habe erst einmal das Programmieren des Vektors aufgegeben. 
+
 Als erstes habe ich heute den Hintergrund verändert. Ich habe das alte Bild mit einem blauen Bild ersetzt. Außerdem habe ich die Flugezeuge mit Fliegen ersetzt.
 
 ![Hintergrund 2](https://user-images.githubusercontent.com/88386035/163570991-a84657ed-3693-4e1f-917b-06cc603a2a63.PNG)
