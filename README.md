@@ -192,19 +192,31 @@ Danach habe ich RandomTurn aus dem Code auskommentiert, weil die Funktion keinen
 
 ![Smooth Mover](https://user-images.githubusercontent.com/88386035/163573737-89469234-7b34-4d02-8468-a9ea007aacfd.PNG)
 
-Dies hilft mir hoffentlich, dass ich in der nächsten Stunde etwas pogrammieren kann damit die Boids sobald sie sich an der Wand befinden, sich von dieser entfernen.
+Dies hilft mir hoffentlich, dass ich in der nächsten Stunde etwas pogrammieren kann damit die Boids sobald sie sich an der Kante der Welt befinden, sich von dieser entfernen.
 
 ## <a name="17"></a> Mittwoch, 09. März 2022
 
-Ich habe heute angefangen das zu programmieren das sie sich von der Wand entfernen. 
+Ich habe heute angefangen das zu programmieren das sie sich von der Kante der Welt entfernen. 
+
+Als erstes prüfen wir, ob der Boid sich an einer der Kanten befindet. Wenn der Boid sich an einer Kante befindet prüfen wir anhand der X- und Y-Koordinate des Boids an welcher der vier Kanten er sich in der Welt befindet. Für die spätere Logik halte ich dies in einer Variable für den Boid fest, die der Himmelsrichtung der Kante an dem sich der Boid befindet entspricht. 
+
+Mit dem Befehl println gebe ich einen Text an mit dem ich nachvollziehen kann, ob der Code richtig funktioniert.  
+
+Danach ermittel ich eine Zufallszahl um den Ausrittswinkel von der Kante zufällig geschehen zu lassen. Diese gebe ich mir durch den Befehl println als Text aus. 
+
+Je nachdem bei welcher Kante der Boid sich befindet wird die neue Rotation unterschiedlich mit der Zufallszahl berechnet. Dies ist notwendig, da für jede Kante eine andere Logik notwendig. 
+
+Das break in dem Code sorgt dafür, dass sobald die richtige Ecke gefunden wurde der Scwitch Befehl nicht weiter druchgegangen wird. 
+
+Um zu überprüfen, ob der Code funktioniert wird wieder ein Text durch den Befehl println ausgegeben. Dadurch wird sichergestellt, dass kein Fehler im Code ist. 
+
+Durch diese Funktion wird ermöglicht, dass der Boid sich von der Wand mit einem anderen zufälligen Ausfallswinkel abgestoßen wird und so das Problem von vorher aufgelöst wird, denn dort hat der Boid sich zwar auch gedreht sobald er die Kante berührt hat, jedoch wurde dort nicht der Ausfallswinkel verändert. 
+
+## <a name="18"></a> Dienstag, 15. März 2022
 
 ![Teil 1](https://user-images.githubusercontent.com/88386035/163572324-8962ef43-f6aa-4a54-9918-f056a4ebd461.PNG)
 
 ![Teil2](https://user-images.githubusercontent.com/88386035/163572329-3be0c067-a636-4087-b8a2-8f60002f513f.PNG)
-
-## <a name="18"></a> Dienstag, 15. März 2022
-
-
 
 ## <a name="19"></a> Mittwoch, 16. März 2022
 
