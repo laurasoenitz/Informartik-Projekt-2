@@ -173,12 +173,22 @@ Dies klappt auch alles sehr gut bisher und es entsteht eine Art Gruppendynamik. 
 ## <a name="15"></a> Dienstag, 01. März 2022
 
 Ich habe mich heute weiter mit dem Projekt beschäftigt. Als erstes wollte ich mit "getNeigbhours (int distance)" das Problem beheben, dass sie sich Am Ende nicht vom Rand weg kommen. Dies hat bisher, jedoch noch nicht so gut geklappt. Außerdem habe ich mich mit dem Programmieren eines Vektors für die Simulation beschäftgigt. 
+Herr Buhl hat mir dafür eine Simulation mit Gravitation gezeigt. Daran hat er mir gezeigt wie man die Vektor Klasse programmieren kann und insgesamt das Spiel aufgebaut ist. Danach habe ich weiter versucht den Vektor zu programmieren. 
 
 ## <a name="16"></a> Mittwoch, 02. März 2022
 
-Heute hat Herr Buhl mir eine Simulation mit Gravitation gezeigt. Daran hat er mir gezeigt wie man die Vektor Klasse programmieren kann und insgesamt das Spiel aufgebaut ist. Danach habe ich weiter versucht den Vektor zu programmieren. 
+Ich habe erst einmal das Programmieren des Vektors aufgegeben. 
+Als erstes habe ich heute den Hintergrund verändert. Ich habe das alte Bild mit einem blauen Bild ersetzt. Außerdem habe ich die Flugezeuge mit Fliegen ersetzt.
+
+![Hintergrund 2](https://user-images.githubusercontent.com/88386035/163570991-a84657ed-3693-4e1f-917b-06cc603a2a63.PNG)
+
 
 ## <a name="17"></a> Mittwoch, 09. März 2022
 
-Heute habe ich weiter am Vektor gearbeitet. Jetzt hat der Vektor eine Richtung und x und y Koordinaten. 
-Außerdem habe ich bei dem Boid  
+
+
+## <a name="18"></a> Dienstag, 15. März 2022
+
+## <a name="19"></a> Mittwoch, 16. März 2022
+
+## <a name="20"></a> Dienstag, 22. März 2022
