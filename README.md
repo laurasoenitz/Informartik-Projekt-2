@@ -182,7 +182,12 @@ Als erstes habe ich heute den Hintergrund verändert. Ich habe das alte Bild mit
 
 ![Hintergrund 2](https://user-images.githubusercontent.com/88386035/163570991-a84657ed-3693-4e1f-917b-06cc603a2a63.PNG)
 
-Danach habe ich RandomTurn aus dem Code rausgeklammert, weil die Funktion keinen Voteil für die Simulation beiträgt. 
+Danach habe ich RandomTurn aus dem Code rausgeklammert, weil die Funktion keinen Voteil für die Simulation beiträgt. Außerdem habe ich turnAtEdge aus dem Code rausgeklamert, weil ich jetzt das Problem mit der Wand nochmal anders lösen möchte. 
+
+![Teil 1](https://user-images.githubusercontent.com/88386035/163572324-8962ef43-f6aa-4a54-9918-f056a4ebd461.PNG)
+
+![Teil2](https://user-images.githubusercontent.com/88386035/163572329-3be0c067-a636-4087-b8a2-8f60002f513f.PNG)
+
 
 
 ## <a name="17"></a> Mittwoch, 09. März 2022
