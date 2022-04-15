@@ -239,7 +239,7 @@ Danach berechnen wir eine neue Rotation für den Boid. Dabei ist wichtig, dass d
 
 Dafür nehmen wir die 10 Prozent der Rotation durch den Counter und addieren dazu 90 Prozent der eigenen Rotation. Zu dem Wert addieren wir dann 5 Prozent des Winkels zum Nachbarn. Dies bewirkt, dass wir uns vom anderem Boid entfernen, aber auch noch in der Nähe voneinander bleiben. 
 
-![GetAway version 1](https://user-images.githubusercontent.com/88386035/163588013-34417c34-2d90-4d28-bc87-f4e3601dadaa.PNG)
+![GetAway version 2](https://user-images.githubusercontent.com/88386035/163604359-d8055d78-753d-460a-b2d1-8e6458f15968.PNG)
 
 Das Problem ist jetzt noch, dass sie sich in den Ecken vermehrt befinden. Dies werde ich in der nächsten Stunde versuchen zu lösen. 
 
