@@ -182,6 +182,8 @@ Als erstes habe ich heute den Hintergrund verändert. Ich habe das alte Bild mit
 
 ![Hintergrund 2](https://user-images.githubusercontent.com/88386035/163570991-a84657ed-3693-4e1f-917b-06cc603a2a63.PNG)
 
+Danach habe ich RandomTurn aus dem Code rausgeklammert, weil die Funktion keinen Voteil für die Simulation beiträgt. 
+
 
 ## <a name="17"></a> Mittwoch, 09. März 2022
 
