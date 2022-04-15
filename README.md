@@ -211,7 +211,7 @@ Ich habe heute angefangen das zu programmieren das sie sich von der Wand entfern
 
 ## <a name="20"></a> Mittwoch, 13. April 2022
 
-Ich habe in den Ferien meinen Projekt einen letzten Schliff gegeben. Außerdem habe ich den Projektblog für mein Projekt geschrieben.
+Ich habe in den Ferien meinen Projekt einen letzten Schliff gegeben und den Code nochmal bearbeitet. Außerdem habe ich den Projektblog für mein Projekt geschrieben.
 
 Link zur Projektseite vom Blog:
 https://github.com/laurasoenitz/Projektseite-boids
