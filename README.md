@@ -204,9 +204,23 @@ Ich habe heute angefangen das zu programmieren das sie sich von der Wand entfern
 ## <a name="18"></a> Dienstag, 15. März 2022
 
 
+
 ## <a name="19"></a> Mittwoch, 16. März 2022
 
+Ich habe heute den SmoothMover bearbeitet. Ich habe eine Funktion hinzugefügt die den Winkel zwischen bestimmten Objekten berechnet. Diese brauche ich damit die Objekte nicht nur näher aneinander gehen sondern, wenn sie in einen bestimmten Radius sind sich auch wieder abstoßen. Das sie sich abstoßen werde ich am nächsten Tag programmieren. 
+
+![Degree ding](https://user-images.githubusercontent.com/88386035/163586899-80751430-2ee8-434e-ad85-c3cad28fca9e.PNG)
+
+
 ## <a name="20"></a> Dienstag, 22. März 2022
+
+Ich habe heute als erstes die Funktion die ich mit Herrn Buhl erstellt habe als setSwarmRotationGetCloser unbennant. 
+
+![Get Closer](https://user-images.githubusercontent.com/88386035/163587514-e64211e1-02b7-4a6d-95e4-ba40c2239e6f.PNG)
+
+Danach habe ich mich mit der Funktion setSwarmRotationGetAway gekümmert. Dabei wird sobald das Objekt 
+
+![GetAway version 1](https://user-images.githubusercontent.com/88386035/163588013-34417c34-2d90-4d28-bc87-f4e3601dadaa.PNG)
 
 
 ## <a name="20"></a> Mittwoch, 13. April 2022
