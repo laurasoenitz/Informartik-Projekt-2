@@ -47,7 +47,7 @@
  
 [21.   Dienstag, 12. März 2022](#21)
  
-[22.   Mittwoch, 13. April 2022](#22)
+[22.   Freitag, 15. April 2022](#22)
 
 ## <a name="1"></a> Dienstag, 14. Dezember 2021
 
@@ -261,7 +261,7 @@ Danach wird je nachdem in welcher Ecke sich der Boid befindet eine zufällige Ro
 
 Ein Problem gibt es jetzt noch, da sich die Boids andauernd anpassen befinden sie sich immer noch vermehrt beieinander. Dies könnte man noch verbessern, indem man die Boids in eine Rangfolge setzt und es so einen Anführer gibt, an den sich dann alle anpassen. 
 
-## <a name="22"></a> Mittwoch, 13. April 2022
+## <a name="22"></a> Freitag, 15. April 2022
 
 Ich habe in den Ferien mein Projekt einen letzten Schliff gegeben und den Code nochmal bearbeitet und Kommentare zu dem Code hinzugefügt. Außerdem habe ich den Projektblog für mein Projekt geschrieben.
 
