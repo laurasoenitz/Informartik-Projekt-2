@@ -178,9 +178,12 @@ Dies klappt auch alles sehr gut bisher und es entsteht eine Art Gruppendynamik. 
 ## <a name="15"></a> Dienstag, 01. März 2022
 
 Ich habe mich heute weiter mit dem Projekt beschäftigt. Als erstes wollte ich mit "getNeigbhours (int distance)" das Problem beheben, dass sie sich Am Ende nicht vom Rand weg kommen. Dies hat bisher, jedoch noch nicht so gut geklappt. Außerdem habe ich mich mit dem Programmieren eines Vektors für die Simulation beschäftgigt. 
-Herr Buhl hat mir dafür eine Simulation mit Gravitation gezeigt. Daran hat er mir gezeigt wie man die Vektor Klasse programmieren kann und insgesamt das Spiel aufgebaut ist. Danach habe ich weiter versucht den Vektor zu programmieren. 
 
 ## <a name="16"></a> Mittwoch, 02. März 2022
+
+Herr Buhl hat mir dafür eine Simulation mit Gravitation gezeigt. Daran hat er mir gezeigt wie man die Vektor Klasse programmieren kann und insgesamt das Spiel aufgebaut ist. Danach habe ich weiter versucht den Vektor zu programmieren. 
+
+## <a name="17"></a> Mittwoch, 09. März 2022
 
 Ich habe erst einmal das Programmieren des Vektors aufgegeben. 
 
@@ -194,7 +197,7 @@ Danach habe ich RandomTurn aus dem Code auskommentiert, weil die Funktion keinen
 
 Dies hilft mir hoffentlich, dass ich in der nächsten Stunde etwas pogrammieren kann damit die Boids sobald sie sich an der Kante der Welt befinden, sich von dieser entfernen.
 
-## <a name="17"></a> Mittwoch, 09. März 2022
+## <a name="18"></a> Dienstag, 15. März 2022
 
 Ich habe heute angefangen das zu programmieren das sie sich von der Kante der Welt entfernen. 
 
@@ -211,8 +214,6 @@ Das break in dem Code sorgt dafür, dass sobald die richtige Ecke gefunden wurde
 Um zu überprüfen, ob der Code funktioniert wird wieder ein Text durch den Befehl println ausgegeben. Dadurch wird sichergestellt, dass kein Fehler im Code ist. 
 
 Durch diese Funktion wird ermöglicht, dass der Boid sich von der Wand mit einem anderen zufälligen Ausfallswinkel abgestoßen wird und so das Problem von vorher aufgelöst wird, denn dort hat der Boid sich zwar auch gedreht sobald er die Kante berührt hat, jedoch wurde dort nicht der Ausfallswinkel verändert. 
-
-## <a name="18"></a> Dienstag, 15. März 2022
 
 ![Teil 1](https://user-images.githubusercontent.com/88386035/163572324-8962ef43-f6aa-4a54-9918-f056a4ebd461.PNG)
 
