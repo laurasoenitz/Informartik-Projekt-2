@@ -122,7 +122,7 @@ Die Frage ist zurzeit noch, ob ich mit Karlotta das Projekt weiter mache oder ob
 
 ## <a name="10"></a> Mittwoch, 9. Februar 2022
 
-Ich möchte mich mit dem Projekt boids beschäftigen. Das Projekt simuliert das Schwarmverhalten von Vögeln. 
+Ich möchte mich mit dem Projekt "Boids" beschäftigen. Das Projekt simuliert das Schwarmverhalten von Vögeln. 
 Dabei möchte man das alle Vögel drei Regeln beachten:
 
 1. Separation: Gehe auf Abstand zu anderen Vögeln, wenn du ihnen zu nahekommst.
@@ -201,9 +201,9 @@ Dies hilft mir hoffentlich, dass ich in der nächsten Stunde etwas programmieren
 
 ## <a name="18"></a> Dienstag, 15. März 2022
 
-Ich habe heute angefangen das zu programmieren das sie sich von der Kante der Welt entfernen. 
+Ich habe heute angefangen den Code zu programmieren damit die Boids sich von der Kante der Welt entfernen. 
 
-Als erstes prüfe ich, ob der Boid sich an einer der Kanten befindet. Wenn der Boid sich an einer Kante befindet, prüfe ich  anhand der X- und Y-Koordinate des Boids an welcher der vier Kanten er sich in der Welt befindet. Für die spätere Logik halte ich dies in einer Variable für den Boid fest, die der Himmelsrichtung der Kante an dem sich der Boid befindet entspricht. 
+Als erstes prüfe ich, ob der Boid sich an einer der Kanten befindet. Wenn der Boid sich an einer Kante befindet, prüfe ich anhand der X- und Y-Koordinate des Boids an welcher der vier Kanten er sich in der Welt befindet. Für die spätere Logik halte ich dies in einer Variable für den Boid fest, die der Himmelsrichtung der Kante an dem sich der Boid befindet entspricht. 
 
 Mit dem Befehl println gebe ich einen Text an mit dem ich nachvollziehen kann, ob der Code richtig funktioniert.  
 
@@ -223,7 +223,7 @@ Durch diese Funktion wird ermöglicht, dass der Boid sich von der Wand mit einem
 
 ## <a name="19"></a> Mittwoch, 16. März 2022
 
-Ich habe heute den SmoothMover bearbeitet. Ich habe eine Funktion hinzugefügt, die den Winkel zwischen bestimmten Objekten berechnet. Diese brauche ich damit die Objekte nicht nur näher aneinander gehen sondern, wenn sie in einen bestimmten Radius sind sich auch wieder abstoßen. Dass sie sich wieder abstoßen werde ich in der nächste Stunde programmieren. 
+Ich habe heute den SmoothMover bearbeitet. Dot habe ich eine Funktion hinzugefügt, die den Winkel zwischen bestimmten Objekten berechnet. Diese brauche ich damit die Objekte nicht nur näher aneinander gehen sondern, wenn sie in einen bestimmten Radius sind sich auch wieder abstoßen. Dass sie sich wieder abstoßen werde ich in der nächste Stunde programmieren. 
 
 ![Degree ding](https://user-images.githubusercontent.com/88386035/163586899-80751430-2ee8-434e-ad85-c3cad28fca9e.PNG)
 
@@ -235,11 +235,11 @@ Ich habe heute als erstes die Funktion, die ich mit Herrn Buhl erstellt habe als
 
 Danach habe ich mich mit der Funktion setSwarmRotationGetAway gekümmert. Durch diese Funktion entfernen sich die Objekte, sobald sie sich zu nah kommen. Da es häufig zu dem Problem kam, dass die Boids nur noch beisammen waren und übereinander. 
 
-Als erstes wird genauso wie beim setSwarmRotationGetCloser eine Liste von den Boids im Radius von 40 gemacht. Diese Boids in der Umgebung werden dann die Informationen für DegressToNeighbor und Rotation entnommen. Dabei wird die Roationen von allen Boids die in der Liste aufgenommen wurden und wir erhöhen den counter um 1 pro Boid.
+Als erstes wird genauso wie beim setSwarmRotationGetCloser eine Liste von den Boids im Radius von 40 gemacht. Diese Boids in der Umgebung werden dann die Informationen für DegressToNeighbor und Rotation entnommen. Dabei wird die Roationen von allen Boids die in der Liste aufgenommen wurden und danach wird der counter um 1 pro Boid erhöht.
 
-Danach berechnen wir eine neue Rotation für den Boid. Dabei ist wichtig, dass diese zwar an die Boids in der Umgebung angepasst sind, jedoch auch bewirken, dass die Boids sich voneinander entfernen. 
+Danach berechne ich eine neue Rotation für den Boid. Dabei ist wichtig, dass diese zwar an die Boids in der Umgebung angepasst sind, jedoch auch bewirken, dass die Boids sich voneinander entfernen. 
 
-Dafür nehmen wir die 10 Prozent der Rotation der Nachbarn durch den Counter und addieren dazu 90 Prozent der eigenen Rotation. Zu dem Wert addieren wir dann 5 Prozent des Winkels zum Nachbarn. Dies bewirkt, dass wir uns vom anderem Boid entfernen, aber auch gleichzeitig in der Nähe voneinander bleiben. 
+Dafür nehme ich die 10 Prozent der Rotation der Nachbarn durch den Counter und addieren dazu 90 Prozent der eigenen Rotation. Zu dem Wert addiere ich dann 5 Prozent des Winkels zum Nachbarn. Dies bewirkt, dass der Boid sich von dem anderem Boid entfernen, aber auch gleichzeitig in der Nähe voneinander bleiben. 
 
 ![GetAway version 2](https://user-images.githubusercontent.com/88386035/163604359-d8055d78-753d-460a-b2d1-8e6458f15968.PNG)
 
@@ -249,7 +249,7 @@ Das Problem ist jetzt noch, dass sie sich in den Ecken vermehrt befinden. Dies w
 
 Ich habe herausgefunden, dass wenn die Boids sich in der Ecke befinden, der Winkel ein anderer sollte, damit man garantieren kann das die Boids sich wirklich aus der Ecke bewegen. Der Winkel hierbei ist 70 Grad. 
 
-Als erstes schaue ich, dadurch das es zum anderen Code hinzugefügt, ob der Boid überhaupt an einer Kante sich befindet. Danach mache ich das ähnlich wie bei den normalen Kanten, dass man schaut in welcher Ecke der Boid sich befindet. Dies finden wir mit der Breite und der Höhe heraus. Ich halte durch eine Variabel fest in welcher Ecke der Boid ist. 
+Als erstes schaue ich, dadurch das es zum anderen Code hinzugefügt, ob der Boid überhaupt an einer Kante sich befindet. Danach mache ich das ähnlich wie bei den normalen Kanten, dass man schaut in welcher Ecke der Boid sich befindet. Dies finde ich mit der Breite und der Höhe heraus. Ich halte durch eine Variabel fest in welcher Ecke der Boid ist. 
 
 Danach wird je nachdem in welcher Ecke sich der Boid befindet eine zufällige Rotation beim Boid eingestellt. Die zufällige Rotation kommt durch eine Zufallszahl die im Bereich von 0 bis 140 gesetzt ist. 
 
