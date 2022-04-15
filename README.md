@@ -144,7 +144,7 @@ Ich habe mich heute weiter mit den Vektoren und der Klasse SmoothActor beschäft
 ## <a name="13"></a> Dienstag, 22. Februar 2022
 
 Ich habe heute als erstes mit Herrn Buhl über das Projekt geredet und wie das mit dem SmoothActor machen kann. Außerdem verstehe ich jetzt den Aufbau von dem Projekt auf der Greenfoot Seite. 
-Ich habe mit Herrn Buhl etwas zusammen programmiert. Jetzt kann mein Boid sich an andere Boids in der Umgebung anpassen von der Rotation her. Dafür "misst" er die Rotation von den Boids in einer bestimmten Umgebung (hier 250) und aus diesen Werten bildet er den Mittelwert und stellt diese "Rotation" bei sich ein.  
+Ich habe mit Herrn Buhl etwas zusammen programmiert. Jetzt kann mein Boid sich an andere Boids in der Umgebung anpassen von der Rotation her. Dafür "misst" er die Rotation von den Boids in einer bestimmten Radius (hier 250) und aus diesen Werten bildet er den Mittelwert und stellt diese "Rotation" bei sich ein.  
 
 ![Drehungt](https://user-images.githubusercontent.com/88386035/155162781-e86476e8-e986-4f30-a15b-774e878d0740.PNG)
 
@@ -227,7 +227,7 @@ Ich habe heute den SmoothMover bearbeitet. Ich habe eine Funktion hinzugefügt d
 
 ## <a name="20"></a> Dienstag, 22. März 2022
 
-Ich habe heute als erstes die Funktion die ich mit Herrn Buhl erstellt habe als setSwarmRotationGetCloser unbennant. 
+Ich habe heute als erstes die Funktion die ich mit Herrn Buhl erstellt habe als setSwarmRotationGetCloser unbennant. Außerdem habe ich einen neuen Radius von 80 gesetzt.
 
 ![Get Closer](https://user-images.githubusercontent.com/88386035/163587514-e64211e1-02b7-4a6d-95e4-ba40c2239e6f.PNG)
 
