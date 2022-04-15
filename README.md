@@ -184,6 +184,7 @@ Als erstes habe ich heute den Hintergrund verändert. Ich habe das alte Bild mit
 ![Hintergrund 2](https://user-images.githubusercontent.com/88386035/163570991-a84657ed-3693-4e1f-917b-06cc603a2a63.PNG)
 
 Danach habe ich RandomTurn aus dem Code rausgeklammert, weil die Funktion keinen Voteil für die Simulation beiträgt. Außerdem habe ich turnAtEdge aus dem Code rausgeklamert, weil ich jetzt das Problem mit der Wand nochmal anders lösen möchte. Dafür habe ich als erstes bei dem SmoothMover die Funktion hinzugefügt das getestet wird ob das Objekt sich es an eine der Kanten befindet. Wenn das Objekt sich an eine der Kanten befindet wird true zurückgegeben.
+
 Dies hilft mir hoffentlich, dass ich in der nächsten Stunde etwas pogrammieren kann damit die Boids sobald sie an der Wand sich befinden sich von dieser entfernen.
 
 ![Smooth Mover](https://user-images.githubusercontent.com/88386035/163573737-89469234-7b34-4d02-8468-a9ea007aacfd.PNG)
