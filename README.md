@@ -226,6 +226,11 @@ Das Problem ist jetzt noch, dass sie sich in den Ecken vermehrt befinden. Dies w
 
 ## <a name="21"></a> Dienstag, 12. April 2022
 
+![turn mit Edge](https://user-images.githubusercontent.com/88386035/163598529-34365e14-a4c7-4f61-bfff-77a143a7434c.PNG)
+
+![edge 2](https://user-images.githubusercontent.com/88386035/163598535-319789cd-998e-40c4-bd3b-e5f2741cdceb.PNG)
+
+![Teil 3 edge](https://user-images.githubusercontent.com/88386035/163598544-3585e13c-9f8b-4adf-bce3-f54990705721.PNG)
 
 Ecken
 ## <a name="22"></a> Mittwoch, 13. April 2022
