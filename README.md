@@ -164,7 +164,7 @@ Danach, wenn die Rotation an die anderen Boids angepasst ist:
 
 ## <a name="14"></a> Mittwoch, 23. Februar 2022
 
-Heute habe ich mit der Hilfe von Herrn Buhl als erstes den constructer bearbeitet und somit das Bild des Flugzeugs kleiner gemacht. 
+Heute habe ich mit der Hilfe von Herrn Buhl als erstes den constructor bearbeitet und somit das Bild des Flugzeugs kleiner gemacht. 
 
 ![Constructer](https://user-images.githubusercontent.com/88386035/156185126-a944d551-ac03-486e-bd2c-d534c733c387.PNG)
 
