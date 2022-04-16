@@ -120,11 +120,13 @@ Ich habe mir die letzten Videos aus der Reihe "Joy of Code" angesehen. Jetzt hab
 ![Spiel 1](https://user-images.githubusercontent.com/88386035/154082979-a025e4f5-f10f-4570-986a-c52be917e7db.PNG)
 
 Am Ende der Stunde hat mit Herr Buhl verschiedene Spielideen vorgeschlagen. Diese habe ich angefangen anzuschauen und ich werde dann in der nächsten Stunde den Rest an Spielideen anschauen und mich für eine entscheiden. 
+
 Die Frage ist zurzeit noch, ob ich mit Karlotta das Projekt weiter mache oder ob wir beide alleine ein eigenes Projekt machen. Dies wird sich hoffentlich in den Verlauf der Wochen klären.
 
 ## <a name="10"></a> Mittwoch, 9. Februar 2022
 
 Ich möchte mich mit dem Projekt "Boids" beschäftigen. Das Projekt simuliert das Schwarmverhalten von Vögeln. 
+
 Dabei möchte man das alle Vögel drei Regeln beachten:
 
 1. Separation: Gehe auf Abstand zu anderen Vögeln, wenn du ihnen zu nahekommst.
