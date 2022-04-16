@@ -151,7 +151,7 @@ Ich habe mich heute weiter mit den Vektoren und der Klasse SmoothMover beschäft
 
 Ich habe heute als erstes mit Herrn Buhl über das Projekt geredet. Außerdem haben wir daüber gesprochen welche Vorteile der SmoothMover hat für die Simulation. Dabei geht es darum, dass kleine präzise Bewegungen möglich sind. Außerdem verstehe ich jetzt den Aufbau von dem fertigen Projekt auf der Greenfoot Seite. 
 
-Ich habe mit Herrn Buhl etwas zusammen programmiert. Jetzt kann sich der Boid an andere Boids in der Umgebung anpassen von der Rotation her. Dafür "misst" er die Rotation von den Boids in einem bestimmten Radius (hier 250) und aus diesen Werten bildet er den Mittelwert und stellt diese "Rotation" bei sich ein.  
+Ich habe mit Herrn Buhl etwas zusammen programmiert. Jetzt kann sich der Boid an andere Boids in der Umgebung anpassen von der Rotation her. Dafür misst er die Rotation von den Boids in einem bestimmten Radius (hier 250) und aus diesen Werten bildet ich den Mittelwert und stellt diese Rotation bei sich ein.  
 
 ![Drehungt](https://user-images.githubusercontent.com/88386035/155162781-e86476e8-e986-4f30-a15b-774e878d0740.PNG)
 
@@ -240,7 +240,7 @@ Ich habe heute als erstes die Funktion, die ich mit Herrn Buhl erstellt habe als
 
 Danach habe ich mich mit der Funktion setSwarmRotationGetAway gekümmert. Durch diese Funktion entfernen sich die Objekte, sobald sie sich zu nah kommen. Da es häufig zu dem Problem kam, dass die Boids nur noch beisammen waren und übereinander. 
 
-Als erstes wird genauso wie beim setSwarmRotationGetCloser eine Liste von den Boids im Radius von 40 gemacht. Diese Boids in der Umgebung werden dann die Informationen für DegressToNeighbor und Rotation entnommen. Dabei wird die Roationen von allen Boids die in der Liste aufgenommen wurden und danach wird der counter um 1 pro Boid erhöht.
+Als erstes wird genauso wie beim setSwarmRotationGetCloser eine Liste von den Boids im Radius von 40 gemacht. Diese Boids in der Umgebung werden dann die Informationen für DegressToNeighbor und Rotation entnommen. Dabei wird die Roationen von allen Boids genommen, die in der Liste aufgenommen wurden. Die Rotationen werden addiert. Danach wird der counter um 1 pro Boid erhöht.
 
 Danach berechne ich eine neue Rotation für den Boid. Dabei ist wichtig, dass diese zwar an die Boids in der Umgebung angepasst sind, jedoch auch bewirken, dass die Boids sich voneinander entfernen. 
 
