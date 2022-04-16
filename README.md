@@ -147,7 +147,8 @@ Ich habe mich heute weiter mit den Vektoren und der Klasse SmoothMover beschäft
 
 ## <a name="13"></a> Dienstag, 22. Februar 2022
 
-Ich habe heute als erstes mit Herrn Buhl über das Projekt geredet. Außerdem haben wir daüber gesprochen welche Vorteile der SmoothMover einen bringt für die Simulation. Dabei geht es darum, dass kleine präzise Bewegungen möglich sind. Außerdem verstehe ich jetzt den Aufbau von dem fertigen Projekt auf der Greenfoot Seite. 
+Ich habe heute als erstes mit Herrn Buhl über das Projekt geredet. Außerdem haben wir daüber gesprochen welche Vorteile der SmoothMover hat für die Simulation. Dabei geht es darum, dass kleine präzise Bewegungen möglich sind. Außerdem verstehe ich jetzt den Aufbau von dem fertigen Projekt auf der Greenfoot Seite. 
+
 Ich habe mit Herrn Buhl etwas zusammen programmiert. Jetzt kann mein Boid sich an andere Boids in der Umgebung anpassen von der Rotation her. Dafür "misst" er die Rotation von den Boids in einem bestimmten Radius (hier 250) und aus diesen Werten bildet er den Mittelwert und stellt diese "Rotation" bei sich ein.  
 
 ![Drehungt](https://user-images.githubusercontent.com/88386035/155162781-e86476e8-e986-4f30-a15b-774e878d0740.PNG)
