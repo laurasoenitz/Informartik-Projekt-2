@@ -244,7 +244,7 @@ Als erstes wird genauso wie beim setSwarmRotationGetCloser eine Liste von den Bo
 
 Danach berechne ich eine neue Rotation für den Boid. Dabei ist wichtig, dass diese zwar an die Boids in der Umgebung angepasst sind, jedoch auch bewirken, dass die Boids sich voneinander entfernen. 
 
-Dafür nehme ich die 10 Prozent der Rotation der Nachbarn durch den Counter und addieren dazu 90 Prozent der eigenen Rotation. Zu dem Wert addiere ich dann 5 Prozent des Winkels zum Nachbarn. Dies bewirkt, dass der Boid sich von dem anderem Boid entfernen, aber auch gleichzeitig in der Nähe voneinander bleiben. 
+Dafür nehme ich die 10 Prozent der Rotation der Nachbarn durch den Counter und addiere dazu 90 Prozent der eigenen Rotation. Zu dem Wert addiere ich dann 5 Prozent des Winkels zum Nachbarn. Dies bewirkt, dass der Boid sich von dem anderem Boid entfernen, aber auch gleichzeitig in der Nähe voneinander bleiben. 
 
 ![GetAway version 2](https://user-images.githubusercontent.com/88386035/163604359-d8055d78-753d-460a-b2d1-8e6458f15968.PNG)
 
