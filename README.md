@@ -254,7 +254,7 @@ Das Problem ist jetzt noch, dass sie sich in den Ecken vermehrt befinden. Dies w
 
 Ich habe herausgefunden, dass wenn die Boids sich in der Ecke befinden, der Winkel ein anderer sollte, damit man garantieren kann das die Boids sich wirklich aus der Ecke bewegen. Der Winkel hierbei ist 70 Grad. 
 
-Als erstes schaue ich, dadurch das es zum anderen Code hinzugefügt, ob der Boid überhaupt an einer Kante sich befindet. Danach mache ich das ähnlich wie bei den normalen Kanten, dass man schaut in welcher Ecke der Boid sich befindet. Dies finde ich mit der Breite und der Höhe heraus. Ich halte durch eine Variabel fest in welcher Ecke der Boid ist. 
+Als erstes schaue ich, ob der Boid überhaupt an einer Kante sich befindet. Danach mache ich das ähnlich wie bei den normalen Kanten, dass man schaut in welcher Ecke der Boid sich befindet. Dies finde ich mit der Breite und der Höhe heraus. Ich halte durch eine Variabel fest in welcher Ecke der Boid ist. 
 
 Danach wird je nachdem in welcher Ecke sich der Boid befindet eine zufällige Rotation beim Boid eingestellt. Die zufällige Rotation kommt durch eine Zufallszahl die im Bereich von 0 bis 140 gesetzt ist. 
 
