@@ -240,11 +240,11 @@ Ich habe heute als erstes die Funktion, die ich mit Herrn Buhl erstellt habe als
 
 Danach habe ich mich mit der Funktion setSwarmRotationGetAway gekümmert. Durch diese Funktion entfernen sich die Objekte, sobald sie sich zu nah kommen. Da es häufig zu dem Problem kam, dass die Boids nur noch beisammen waren und übereinander. 
 
-Als erstes wird genauso wie beim setSwarmRotationGetCloser eine Liste von den Boids im Radius von 40 gemacht. Diese Boids in der Umgebung werden dann die Informationen für DegressToNeighbor und Rotation entnommen. Dabei wird die Roationen von allen Boids genommen, die in der Liste aufgenommen wurden. Die Rotationen werden addiert. Danach wird der counter um 1 pro Boid erhöht.
+Als erstes wird genauso wie beim setSwarmRotationGetCloser eine Liste von den Boids im Radius von 40 gemacht. Von diesen Boids in der Umgebung werden dann die Informationen für DegressToNeighbor und Rotation entnommen. Dabei wird die Roationen von allen Boids genommen, die in der Liste aufgenommen wurden. Die Rotationen werden addiert. Danach wird der counter um 1 pro Boid erhöht.
 
 Danach berechne ich eine neue Rotation für den Boid. Dabei ist wichtig, dass diese zwar an die Boids in der Umgebung angepasst sind, jedoch auch bewirken, dass die Boids sich voneinander entfernen. 
 
-Dafür nehme ich die 10 Prozent der Rotation der Nachbarn durch den Counter und addiere dazu 90 Prozent der eigenen Rotation. Zu dem Wert addiere ich dann 5 Prozent des Winkels zum Nachbarn. Dies bewirkt, dass der Boid sich von dem anderem Boid entfernen, aber auch gleichzeitig in der Nähe voneinander bleiben. 
+Dafür nehme ich die 10 Prozent der Rotation der Nachbarn durch den counter und addiere dazu 90 Prozent der eigenen Rotation. Zu dem Wert addiere ich dann 5 Prozent des Winkels zum Nachbarn. Dies bewirkt, dass der Boid sich von dem anderem Boid entfernen, aber auch gleichzeitig in der Nähe voneinander bleiben. 
 
 ![GetAway version 2](https://user-images.githubusercontent.com/88386035/163604359-d8055d78-753d-460a-b2d1-8e6458f15968.PNG)
 
