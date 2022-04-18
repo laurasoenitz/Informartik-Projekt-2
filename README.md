@@ -264,7 +264,7 @@ Danach wird je nachdem in welcher Ecke sich der Boid befindet eine zufällige Ro
 
 ![Teil 3 edge](https://user-images.githubusercontent.com/88386035/163598544-3585e13c-9f8b-4adf-bce3-f54990705721.PNG)
 
-Ein Problem gibt es jetzt noch, da sich die Boids andauernd anpassen befinden sie sich immer noch vermehrt beieinander. Dies könnte man noch verbessern, indem man die Boids in eine Rangfolge setzt und es so einen Anführer gibt, an den sich dann alle anpassen. 
+Ein Problem gibt es jetzt noch, da sich die Boids andauernd anpassen befinden sie sich immer noch vermehrt beieinander und auf einer Stelle. Dies könnte man noch verbessern, indem man die Boids in eine Rangfolge setzt und es so einen Anführer gibt, an den sich dann alle anpassen. 
 
 ## <a name="22"></a> Freitag, 15. April 2022
 
