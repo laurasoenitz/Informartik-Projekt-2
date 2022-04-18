@@ -228,7 +228,7 @@ Durch diese Funktion wird ermöglicht, dass der Boid sich von der Wand mit einem
 
 ## <a name="19"></a> Mittwoch, 16. März 2022
 
-Ich habe heute den SmoothMover bearbeitet. Dot habe ich eine Funktion hinzugefügt, die den Winkel zwischen bestimmten Objekten berechnet. Diese brauche ich damit die Objekte nicht nur näher aneinander gehen sondern, wenn sie in einen bestimmten Radius sind sich auch wieder abstoßen. Dass sie sich wieder abstoßen werde ich in der nächste Stunde programmieren. 
+Ich habe heute den SmoothMover bearbeitet. Dot habe ich eine Funktion hinzugefügt, die den Winkel zwischen bestimmten Positionen berechnet. Diese brauche ich damit die Objekte nicht nur näher aneinander gehen sondern, wenn sie in einen bestimmten Radius sind sich auch wieder abstoßen. Dass sie sich wieder abstoßen werde ich in der nächste Stunde programmieren. 
 
 ![Degree ding](https://user-images.githubusercontent.com/88386035/163586899-80751430-2ee8-434e-ad85-c3cad28fca9e.PNG)
 
